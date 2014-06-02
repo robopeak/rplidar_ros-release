@@ -1,0 +1,12 @@
+ros-hydro-rplidar-ros (1.0.1-0precise) precise; urgency=high
+
+  * Release 1.0.1.
+  * Add angle compensate mechanism to compatible with ROS scan message
+  * Add RPLIDAR sdk to the repo.
+  * First release of RPLIDAR ROS package (1.0.0)
+  * Initial commit
+  * Contributors: Ling, RoboPeak Public Repos
+
+ -- Ling <mickey.leen@gmail.com>  Mon, 02 Jun 2014 16:00:00 -0000
+
+
