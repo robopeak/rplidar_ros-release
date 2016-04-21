@@ -27,7 +27,7 @@
  */
 /*
  *  RoboPeak LIDAR System
- *  Serial Device Driver for Win32
+ *  Serial Device Driver for Linux
  *
  *  Copyright 2009 - 2014 RoboPeak Team
  *  http://www.robopeak.com
