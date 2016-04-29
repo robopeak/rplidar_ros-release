@@ -2,16 +2,10 @@
 Changelog for package rplidar_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.5.3 (2016-04-26)
-------------------
-* fixed the changeLog and delete tracks.yaml
-* change supporter email
-* Initial tracks.yaml
-* Contributors: kint.zhao
-
 1.5.2 (2016-04-20)
 ------------------
-* Release 1.5.2.
+1.5.1 (2016-04-12)
+* Release 1.5.1.
 * Add the deiver support rplidar A2.
 * Contributors: yhZhao, RoboPeak Public Repos
 
